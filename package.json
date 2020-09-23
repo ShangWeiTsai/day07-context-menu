@@ -21,7 +21,7 @@
 			},
 			{
 				"command": "day07-context-menu.panelVisibleAlt",
-				"title": "Showing alterative command when panel is invisible"
+				"title": "Showing alterative command when using alternative menu item"
 			},
 			{
 				"command": "day07-context-menu.panelInvisible",
